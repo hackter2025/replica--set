@@ -49,7 +49,7 @@ Use Docker in Linux for run mongodb and set replica
           volumes:
             mongodb_data:
 
-     4. go inside container mongodb and use mongosh run command:
+4. go inside container mongodb and use mongosh run command:
           
             1. docker exec -it mongodb /din/sh
             2. mongosh
