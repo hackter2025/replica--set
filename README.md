@@ -1,8 +1,9 @@
 # replica--set
 
 Use Docker in Linux
-  1. docker-compose.yml
-         version: '3.8'
+  1. docker-compose.yml:
+     
+          version: '3.8'
           services:
             mongodb:
               user: "1000:1000"
